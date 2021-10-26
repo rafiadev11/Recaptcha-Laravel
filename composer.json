@@ -1,0 +1,18 @@
+{
+    "name": "aracademia/laravelrecaptcha",
+    "description": "Allow developers to easily implement the google recaptcha service in their applications",
+    "type": "Security",
+    "autoload": {
+        "psr-4": {
+            "Aracademia\\LaravelRecaptcha\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rachid Rafia",
+            "email": "rrafiatech@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
